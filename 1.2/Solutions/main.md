@@ -1,1 +1,1 @@
-	\underline{\text{a long argument}}
+	$\underline{\text{a long argument}}$
