@@ -9,9 +9,9 @@
   - c. $a(b + c) = ab + ac$ ; Distributive property
 - 3.
   - a. 
-```math
-A = \set{x\mid x \in \mathbb{R} \mid 2<x<7}$
-```
+$$
+A = \set{x\mid x \in \mathbb{R} \mid 2<x<7}
+$$
   - b. $(2,7)$
 - 4. $\text{The symbol \( |x| \) stands for the \underline{absolute value} of the number \(x\).} 
       \\ \text{If \(x\) is not 0, then the sign of \(|x|\) is always \underline{positive}.}$
