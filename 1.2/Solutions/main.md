@@ -1,1 +1,1 @@
-$\text{hello there}$
+$\text{hello there \(|x|\)}$
