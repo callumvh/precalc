@@ -22,5 +22,5 @@ $$
 
 
 
-$\Set{ x | x<\frac 1 2 }$
+$\Set{ x \mid x<\frac 1 2 }$
 
