@@ -10,7 +10,7 @@
 - 3.
   - a. $A = \set{x | x \in ℝ | 2 < x < 7}$
   - b. $(2,7)$
-- 4. $\text{The symbol \(|x|\) stands for the \(\underline{absolute value}\) of the number \(x\).}$
+- 4. $\text{The symbol \(|x|\) stands for the \(\underline{4}\) of the number \(x\).}$
       $\text{If \(x\) is not 0, then the sign of \(|x|\) is always positive.}$
 - 5. $\text{The distance between \(a\) and \(b\) on the real line is \(d(a,b)=b-a\)}$
 
