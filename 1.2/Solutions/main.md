@@ -1,1 +1,1 @@
-	$\underline{\text{a long argument}}$
+$\underline{x} \; \underline{x}_k \; \underline{y}  \; \underline{z}$
