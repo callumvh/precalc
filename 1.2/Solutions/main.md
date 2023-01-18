@@ -21,6 +21,14 @@ $$
 - 5. $\text{The distance between \(a\) and \(b\) on the real line is \(d(a,b)=b-a\)}$
 
 
+$$
+\set{ x | x \in ℝ | x< \frac 4 2}
 
-$\Set{ x \mid x<\frac 1 2 }$
 
+$$
+
+$$
+\Set{ x | x \in ℝ | x< \frac 4 2}
+
+
+$$
