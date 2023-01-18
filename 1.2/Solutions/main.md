@@ -21,6 +21,6 @@ $$
 - 5. $\text{The distance between \(a\) and \(b\) on the real line is \(d(a,b)=b-a\)}$
 
 
-$$
-\Set{ x | x<\frac 1 2 }
-$$
+
+$\Set{ x | x<\frac 1 2 }$
+
