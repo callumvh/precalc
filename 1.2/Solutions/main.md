@@ -1,1 +1,1 @@
-$\text{hello there \(|x|\)}$
+	\underline{\text{a long argument}}
